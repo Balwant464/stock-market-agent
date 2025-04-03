@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain-google-genai
+python-dotenv
+nest_asyncio
+requests
+yfinance
